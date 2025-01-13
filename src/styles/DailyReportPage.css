@@ -1,0 +1,11 @@
+/* File: src/styles/DailyReportPage.css */
+
+.daily-report-page {
+    padding: 20px;
+  }
+  
+  .daily-report-page h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  

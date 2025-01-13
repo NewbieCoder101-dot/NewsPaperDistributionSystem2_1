@@ -1,0 +1,11 @@
+/* File: src/styles/MonthlyReportPage.css */
+
+.monthly-report-page {
+    padding: 20px;
+  }
+  
+  .monthly-report-page h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  

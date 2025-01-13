@@ -1,0 +1,42 @@
+/* File: src/styles/SettingsPage.css */
+
+.settings-page {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .settings-page h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .settings-page form div {
+    margin-bottom: 15px;
+  }
+  
+  .settings-page form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .settings-page form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .settings-page form button {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .settings-page form button:hover {
+    background-color: #2980b9;
+  }
+  

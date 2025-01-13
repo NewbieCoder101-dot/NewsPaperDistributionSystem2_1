@@ -1,0 +1,27 @@
+/* File: src/styles/TicketsPage.css */
+
+.tickets-page {
+    padding: 20px;
+  }
+  
+  .tickets-page h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .tickets-page table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .tickets-page table th,
+  .tickets-page table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .tickets-page table th {
+    background-color: #f4f4f4;
+  }
+  

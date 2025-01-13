@@ -1,0 +1,11 @@
+/* File: src/styles/WeeklyReportPage.css */
+
+.weekly-report-page {
+    padding: 20px;
+  }
+  
+  .weekly-report-page h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  

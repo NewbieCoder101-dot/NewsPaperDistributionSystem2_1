@@ -1,0 +1,15 @@
+/* File: src/styles/ReportsPage.css */
+
+.reports-page {
+    padding: 20px;
+  }
+  
+  .reports-page h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .chart-container {
+    margin-top: 20px;
+  }
+  

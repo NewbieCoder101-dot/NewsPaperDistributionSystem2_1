@@ -1,0 +1,32 @@
+/* File: src/styles/Sidebar.css */
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sidebar h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .sidebar nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar nav ul li {
+    margin: 10px 0;
+  }
+  
+  .sidebar nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1em;
+  }
+  
+  .sidebar nav ul li a.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  

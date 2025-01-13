@@ -1,0 +1,46 @@
+/* File: src/styles/TicketForm.css */
+
+.ticket-form {
+    padding: 20px;
+    background-color: #f7f9fa;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .ticket-form h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+  }
+  
+  .ticket-form form div {
+    margin-bottom: 15px;
+  }
+  
+  .ticket-form form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .ticket-form form input,
+  .ticket-form form select,
+  .ticket-form form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .ticket-form form button {
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .ticket-form form button:hover {
+    background-color: #27ae60;
+  }
+  

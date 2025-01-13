@@ -1,0 +1,15 @@
+/* File: src/styles/Footer.css */
+
+.app-footer {
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 10px 20px;
+    border-top: 1px solid #ddd;
+  }
+  
+  .app-footer p {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+  

@@ -1,0 +1,41 @@
+/* File: src/styles/UserManagementPage.css */
+
+.user-management-page {
+    padding: 20px;
+  }
+  
+  .user-management-page h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .user-management-page table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .user-management-page th,
+  .user-management-page td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .user-management-page th {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .user-management-page button {
+    padding: 5px 10px;
+    color: #fff;
+    background-color: #dc3545;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .user-management-page button:hover {
+    background-color: #c82333;
+  }
+  
