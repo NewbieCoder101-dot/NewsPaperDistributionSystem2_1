@@ -1,7 +1,7 @@
 // File: src/pages/ReportsPage.js
 
 import React from "react";
-import ChartComponent from "../components/ChartComponent";
+import ChartComponent from '../components/ChartComponent'; // Ensure this is correct
 import "./../styles/ReportsPage.css";
 
 function ReportsPage() {
